@@ -11,3 +11,5 @@ Here are link to my blogs:
 PPO: https://arpan12.github.io/RoboticsBlog/posts/PPO%20Implementation%20for%20Coders/
 
 DDPG:https://arpan12.github.io/RoboticsBlog/posts/DDPG%20Implementation%20for%20Coders/
+<video src='https://www.youtube.com/watch?v=f2IRG0rqKfA' width=180/>
+
